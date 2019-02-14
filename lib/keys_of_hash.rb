@@ -5,7 +5,7 @@ class Hash
     array = []
 binding.pry
     arguments.each do |argument|
-    
+
   end
 
 end

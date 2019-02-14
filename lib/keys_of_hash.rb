@@ -12,5 +12,5 @@ class Hash
       end
     end
   end
-  array
+  Array
 end

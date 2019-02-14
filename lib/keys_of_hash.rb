@@ -5,8 +5,6 @@ class Hash
 binding.pry
     arguments.each {|key|}
 
-
-    end
   end
 
 end

@@ -2,7 +2,10 @@ require 'pry'
 
 class Hash
   def keys_of(*arguments)
-    arguments.keys
+    array = []
+binding.pry
+    arguments.each do |argument|
+    
   end
 
 end

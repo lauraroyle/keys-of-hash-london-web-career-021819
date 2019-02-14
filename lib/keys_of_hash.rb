@@ -4,7 +4,7 @@ class Hash
   def keys_of(*arguments)
 binding.pry
     animals.key
-    
+
   end
   #return array with key from hash
 end

@@ -6,8 +6,11 @@ class Hash
 
     arguments.each do |argument|
       self.each do |key, value|
-
+        if value === argument
+          array << value
+        end
       end
     end
   end
+  array
 end

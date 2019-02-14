@@ -3,10 +3,10 @@ require 'pry'
 class Hash
   def keys_of(*arguments)
 binding.pry
-    animals.key
+  
 
   end
-  #return array with key from hash
+  animals.key
 end
 
 #method should take an undefined number of arguments, using the splat operator

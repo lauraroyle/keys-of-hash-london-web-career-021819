@@ -7,6 +7,7 @@ binding.pry
     arguments.each do |argument|
       self.each do |key, value|
 
+      end
     end
   end
 end

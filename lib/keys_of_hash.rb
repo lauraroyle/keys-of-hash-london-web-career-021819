@@ -6,8 +6,8 @@ class Hash
 binding.pry
     arguments.each do |argument|
 
+    end
   end
-
 end
 
 #method should take an undefined number of arguments, using the splat operator

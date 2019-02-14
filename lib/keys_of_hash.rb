@@ -2,11 +2,12 @@ require 'pry'
 
 class Hash
   def keys_of(*arguments)
-binding.pry
-
-
+    animals.each do |key, value|
+      binding.pry
+      
+    end
   end
-  return animals.key
+  
 end
 
 #method should take an undefined number of arguments, using the splat operator

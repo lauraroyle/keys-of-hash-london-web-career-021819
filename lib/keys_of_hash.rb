@@ -2,9 +2,9 @@ require 'pry'
 
 class Hash
   def keys_of(*arguments)
-    array = *"arguments"
+    arguments.key
   end
-array
+
 end
 
 #method should take an undefined number of arguments, using the splat operator

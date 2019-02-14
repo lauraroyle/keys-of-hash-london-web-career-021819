@@ -6,7 +6,7 @@ class Hash
 
     arguments.each do |argument|
       self.each do |key, value|
-        
+
       end
     end
   end

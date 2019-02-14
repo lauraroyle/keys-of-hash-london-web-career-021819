@@ -2,8 +2,9 @@ require 'pry'
 
 class Hash
   def keys_of(*arguments)
+binding.pry
     animals.each do |key, value|
-      binding.pry
+      
 
     end
   end
